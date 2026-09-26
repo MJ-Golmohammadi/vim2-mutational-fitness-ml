@@ -172,6 +172,31 @@ This distinction allows the difference between conventional random-split perform
 
 ---
 
+## Citation
+
+If you use this repository, please cite the associated manuscript.
+
+**Preprint**
+
+*https://www.researchsquare.com/article/rs-11081248/v1*
+
+---
+
+## Correspondence
+
+**Mohammad Javad Golmohammadi**
+
+University of Tehran
+
+Tehran, Iran
+
+ORCID: https://orcid.org/0000-0002-9277-0023
+
+Email: Mohammad.jg75@gmail.com
+
+---
+---
+
 ## Analysis Workflow
 
 The computational workflow proceeds through the following major stages:
